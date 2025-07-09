@@ -55,12 +55,12 @@ The system is implemented using Python in a Google Colab environment. Output tre
 
 ```mermaid
 flowchart TD
-    A[dataset.csv (raw data)] --> B[Google Colab Notebook]
-    B --> C[Model 1: Basic Pricing]
-    B --> D[Model 2: Demand-Based Pricing]
-    C --> E[Price Output]
-    D --> E
-    E --> F[Visualization with Matplotlib]
+  A[dataset.csv_raw_data] --> B[Google_Colab_Notebook]
+  B --> C[Model_1_Basic_Pricing]
+  B --> D[Model_2_Demand_Based_Pricing]
+  C --> E[Price_Output]
+  D --> E
+  E --> F[Visualization_with_Matplotlib]
 ```
 
 
