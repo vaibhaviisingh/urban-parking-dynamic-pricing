@@ -65,13 +65,13 @@ flowchart TD
 
 
 ## 4. 📁 Repository Structure
-.
+```
 ├── dataset.csv
 ├── Dynamic_Pricing_Parking_YourName.ipynb
 ├── README.md
 └── (Optional) report.pdf
 
-
+```
 ---
 
 ## 5. 🏃‍♂️ How to Run
