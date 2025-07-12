@@ -85,4 +85,4 @@ flowchart TD
 
 ## 📣 Author
 
-Developed by a beginner as part of the **Summer Analytics 2025** capstone program at **IIT Guwahati**, hosted by the **Consulting & Analytics Club** in collaboration with **Pathway**.
+Developed by me as part of the **Summer Analytics 2025** capstone program at **IIT Guwahati**, hosted by the **Consulting & Analytics Club** in collaboration with **Pathway**.
